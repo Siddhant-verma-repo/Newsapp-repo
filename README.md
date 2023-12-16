@@ -1,0 +1,2 @@
+# Newsapp-repo
+ News application 
